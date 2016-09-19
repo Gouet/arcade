@@ -1,0 +1,13 @@
+<map id="Play" name="Play">
+<area shape="rect" id="node2" href="$_snake_8cpp.html#ad1c43aa668695928b44a5a0743cb2af7" title="whereAmI" alt="" coords="130,5,211,32"/>
+<area shape="rect" id="node4" href="$_snake_8cpp.html#a20ad0db93a03e6ebe30ec59738214db8" title="updateMap" alt="" coords="127,56,214,83"/>
+<area shape="rect" id="node7" href="$class_snake.html#a79b58cff227bab98162e179b7fff1e65" title="Snake::goUp" alt="" coords="121,107,220,133"/>
+<area shape="rect" id="node8" href="$class_snake.html#a3e75465f8982e67b5f156432c0a0868b" title="Snake::goDown" alt="" coords="113,157,228,184"/>
+<area shape="rect" id="node9" href="$class_snake.html#a8e8fdb0a694a05d267671bfd3ef67054" title="Snake::goLeft" alt="" coords="119,208,222,235"/>
+<area shape="rect" id="node10" href="$class_snake.html#a1850bb9cf00539a2bf2462ce4dfb69e3" title="Snake::goRight" alt="" coords="115,259,227,285"/>
+<area shape="rect" id="node11" href="$class_snake.html#a4c6815bbc4ee21e93970c741f92dd1f5" title="Snake::goAhead" alt="" coords="302,335,421,361"/>
+<area shape="rect" id="node12" href="$class_snake.html#ab6bca74fbcef494e90b69b8d77756be0" title="Snake::playARound" alt="" coords="101,360,240,387"/>
+<area shape="rect" id="node3" href="$class_snake.html#aadc05e077357ee7554767d9bbd1f882c" title="Snake::getSnake" alt="" coords="300,5,423,32"/>
+<area shape="rect" id="node5" href="$class_snake.html#a11a5782f3228d480f73dd9f0fbc84027" title="Snake::getApple" alt="" coords="302,56,421,83"/>
+<area shape="rect" id="node6" href="$class_a_component.html#a4575869d086fd815ed433dcbf57c3b96" title="AComponent::getPos" alt="" coords="288,107,435,133"/>
+</map>

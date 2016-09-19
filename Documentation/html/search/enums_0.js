@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['_5fmodplug_5fflags',['_ModPlug_Flags',['../external_2libmodplug-0_88_88_84_2src_2modplug_8h.html#a3e39048e3a9ce7c7a25016512645205a',1,'_ModPlug_Flags():&#160;modplug.h'],['../_visual_c_2external_2include_2libmodplug_2modplug_8h.html#a3e39048e3a9ce7c7a25016512645205a',1,'_ModPlug_Flags():&#160;modplug.h'],['../_xcode_2_frameworks_2modplug_8framework_2_versions_2_a_2_headers_2modplug_8h.html#a3e39048e3a9ce7c7a25016512645205a',1,'_ModPlug_Flags():&#160;modplug.h']]],
+  ['_5fmodplug_5fresamplingmode',['_ModPlug_ResamplingMode',['../external_2libmodplug-0_88_88_84_2src_2modplug_8h.html#a4a3b8e7e38e893a43eb42b469baa3bbe',1,'_ModPlug_ResamplingMode():&#160;modplug.h'],['../_visual_c_2external_2include_2libmodplug_2modplug_8h.html#a4a3b8e7e38e893a43eb42b469baa3bbe',1,'_ModPlug_ResamplingMode():&#160;modplug.h'],['../_xcode_2_frameworks_2modplug_8framework_2_versions_2_a_2_headers_2modplug_8h.html#a4a3b8e7e38e893a43eb42b469baa3bbe',1,'_ModPlug_ResamplingMode():&#160;modplug.h']]]
+];
